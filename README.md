@@ -25,3 +25,10 @@ Welcome to **Glowify**, your all-in-one skincare companion powered by Ayurveda a
   - Monitor your skin’s improvement over time with before-and-after photos and detailed notes.
 
 ---
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/10dd3798-f834-4d36-828d-70dbbba1e5e7" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c49366ac-47cd-4be4-880a-09018df6c8f5" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ea62bef2-bed5-4610-813e-890f95b649d9" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1be4db54-04e4-48aa-90eb-2d2f7b41490d" />
+
+
