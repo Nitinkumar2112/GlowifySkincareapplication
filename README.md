@@ -4,7 +4,7 @@ Welcome to **Glowify**, your all-in-one skincare companion powered by Ayurveda a
 
 ---
 
-## ✅ Key Features
+## ✅ Key Features -:
 
 - 🌿 **Ayurveda-Based Recommendations**
   - Personalized skincare tips and product suggestions based on your dosha (Vata, Pitta, Kapha) and skin concerns, combining ancient wisdom with modern science.
